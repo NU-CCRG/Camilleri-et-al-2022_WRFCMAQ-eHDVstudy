@@ -6,4 +6,4 @@ Data analysis scripts for Camilleri et al., 2022
 1. Data analysis scripts for:
 - WRF-CMAQ output for all conducted simulations
 - Health impact assessment 
-- Enironmental Justice analysis
+- Environmental Justice analysis
