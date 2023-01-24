@@ -8,6 +8,7 @@ Data analysis scripts for Camilleri et al., 2022
 - Health impact assessment 
 - Environmental Justice analysis
 
+
 2. Energy dispatch algorithm:
 - Algorithm script
 - CONUS shape files 
