@@ -7,3 +7,9 @@ Data analysis scripts for Camilleri et al., 2022
 - WRF-CMAQ output for all conducted simulations
 - Health impact assessment 
 - Environmental Justice analysis
+
+2. Energy dispatch algorithm:
+- Algorithm script
+- CONUS shape files 
+- NERC shape files
+- Associated data
