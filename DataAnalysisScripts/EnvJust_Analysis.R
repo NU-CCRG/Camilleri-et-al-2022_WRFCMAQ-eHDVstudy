@@ -52,8 +52,7 @@ Base <- st_read("/Users/sara/Documents/EDF/EnvJust/BaseOnly_Annual_Newv2.shp")
 crs(Base)
 Base_trans <- st_transform(Base, crs = st_crs(Roads_allsub))
 
-All_Trans/BaseDiff_allTrans_Annual_allPoll_EC.shp")
-
+AQ_Ann_eHDV <- st_read("/Users/sara/Documents/EDF/EnvJust/eHDV/BaseDiff_Annual_allPoll_EC.shp")
 AQ_trans <- st_transform(AQ_Ann_eHDV, crs = st_crs(Roads_allsub))
 st_crs(AQ_trans) == st_crs(Roads_allsub) #TRUE
 plot(st_geometry(AQ_trans))
